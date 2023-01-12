@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         print("Another Stories Commit")
         print("Reels2 Commit")
         print("Reels3 Commit")
+        print("Another Stories2 Commit")
+        print("Another Stories3 Commit")
     }
 }
