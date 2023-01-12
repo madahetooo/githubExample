@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         print("Stories Commit")
         print("Reels Commit")
+        print("Another Stories Commit")
     }
 }
